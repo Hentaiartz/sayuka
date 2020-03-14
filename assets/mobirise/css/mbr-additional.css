@@ -1838,6 +1838,7 @@ section.lazy-placeholder:after {
 .cid-rTdrMnqXwW .price-figure {
   font-weight: 700;
   color: #232323;
+  text-align: left;
 }
 .cid-rTdrMnqXwW .price-value {
   font-weight: 700;
@@ -1852,6 +1853,9 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rTdrMnqXwW UL {
+  text-align: left;
+}
+.cid-rTdrMnqXwW .price-term {
   text-align: left;
 }
 .cid-rTdpkg3Qu4 {
