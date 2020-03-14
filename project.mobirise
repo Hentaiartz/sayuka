@@ -69,11 +69,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Sayuka Bot ",
+        "meta_descr": "Sayuka es un bot con mas de 100 comandos divertidos y utiles.\nCon mas de 5000 servidores y 500k de usarios actvios,",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logov2-1000x1000.png"
       },
       "components": [
         {
