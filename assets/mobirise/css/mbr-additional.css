@@ -1792,9 +1792,46 @@ section.lazy-placeholder:after {
 .cid-rTdpkdy5eT .mbr-text {
   color: #4a4a4a;
 }
+.cid-rTeWP2y89j {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rTeWP2y89j .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rTeWP2y89j .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rTeWP2y89j .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rTeWP2y89j .team-item .item-image img {
+  width: 100%;
+}
+.cid-rTeWP2y89j .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rTeWP2y89j .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rTeWP2y89j .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rTeWP2y89j .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
 .cid-rTdrMnqXwW {
-  padding-top: 15px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-rTdrMnqXwW .list-group-item {
@@ -1856,6 +1893,72 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rTdrMnqXwW .price-term {
+  text-align: left;
+}
+.cid-rTe3gDd4zU {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rTe3gDd4zU .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-rTe3gDd4zU .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-rTe3gDd4zU .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background-color: transparent;
+  border: 0;
+}
+.cid-rTe3gDd4zU .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-rTe3gDd4zU .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-rTe3gDd4zU .plan.favorite {
+  background-color: #fff;
+  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
+}
+.cid-rTe3gDd4zU .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-rTe3gDd4zU .price-figure {
+  font-weight: 700;
+  color: #232323;
+  text-align: left;
+}
+.cid-rTe3gDd4zU .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-rTe3gDd4zU .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rTe3gDd4zU .plan-title {
+  color: #232323;
+}
+.cid-rTe3gDd4zU UL {
+  text-align: left;
+}
+.cid-rTe3gDd4zU .price-term {
   text-align: left;
 }
 .cid-rTdpkg3Qu4 {
