@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Galatea-Bold';
+   font-display: swap;
+   src: url('Galatea-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Galatea-Regular';
+   font-display: swap;
+   src: url('Galatea-Regular/font.ttf');
+}
